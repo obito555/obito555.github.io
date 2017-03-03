@@ -2,7 +2,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 header {
-	background-image: url('../images/fon.png');
+	background-image: url('../Images/fon.png');
 	background-position: 50% 10%;
 	max-width: 100%;
 
@@ -452,7 +452,7 @@ header {
 
 
 .dostavka_one {
-	background-image:url('../images/dostavka.png');
+	background-image:url('../Images/dostavka.png');
 	background-repeat: no-repeat;
 	background-position: 40%;
 	width: 100%;
@@ -466,7 +466,7 @@ header {
 	color: #332121;
  }
  .dostavka_two {
-	background-image:url('../images/doastavka2.png');
+	background-image:url('../Images/doastavka2.png');
 	background-repeat: no-repeat;
 	background-position: 40%;
 	width: 100%;
@@ -475,7 +475,7 @@ header {
 
 }
 .dostavka_three {
-	background-image:url('../images/dostavka3.png');
+	background-image:url('../Images/dostavka3.png');
 	background-repeat: no-repeat;
 	background-position: 40%;
 	width: 100%;
