@@ -159,7 +159,7 @@ header {
 	font-size: 25px;
 	transition: background 500ms;
 	margin-top: 20px;
-	transition: background 4s;
+	transition: background 2s;
 }
 .one_ecran input[type="submit"]:hover {
 	background: #bf1a09;
@@ -255,6 +255,7 @@ header {
 	text-align: center;
 	font-weight: bold;
 	color: #332121;
+	margin-top: 130px;
 }
 .big_menu {
 	background-image: url('../Images/fon_menu.png');
