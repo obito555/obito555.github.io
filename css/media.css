@@ -57,28 +57,37 @@
     
 }
 @media only screen and (max-width : 410px) {
-    .cart {
+       .cart {
      margin-right: 40px;
     }
     .mobile_menu {
       margin-right: 80px;
     }
-    .logo {
-     
-     
+    .mobile_menu img  {
+      width: 10px;
     }
+    
     .logo img {
      width: 130px;
      margin-left: 40px;
     }
+    .cart {
+     margin-right: 20px;
+    }
     .cart span {
-      font-size: 13px;
+      font-size: 10px;
     }
     .cart .fa-opencart {
-     font-size: 10px;
+     font-size: 5px;
      color: #fff;
      padding-right:  10px; 
+
 }
+.miny_menu img {
+     width: 210px;
+}
+
+
 }
 
 /* Extra Small Devices, Phones */
