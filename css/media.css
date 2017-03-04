@@ -63,19 +63,24 @@
     .mobile_menu {
       margin-right: 80px;
     }
-    .mobile_menu img  {
-      width: 10px;
+     .mobile_menu img  {
+      width: 30px;
+      height: 25px;
     }
-    
+    .logo {
+     
+     
+    }
     .logo img {
      width: 130px;
      margin-left: 40px;
+     margin-top: 5px;
     }
     .cart {
      margin-right: 20px;
     }
     .cart span {
-      font-size: 10px;
+      font-size: 13px;
     }
     .cart .fa-opencart {
      font-size: 5px;
@@ -83,9 +88,22 @@
      padding-right:  10px; 
 
 }
-.miny_menu img {
-     width: 300px;
+   .miny_menu img {
+     width: 200px;
 }
+   .advang_mini img {
+       width: 120px;
+
+
+
+}
+    .text_  {
+      
+      font-size: 13px;
+    
+      
+}
+
 
 
 }
