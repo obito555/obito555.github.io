@@ -28,14 +28,14 @@ header {
 }
 .nav_top {
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 	margin-bottom: 5px;
 
 
 }
 .nav_li {
 	list-style: none;
-	padding: 20px;
+	padding: 16px;
 	flex-wrap: nowrap;
 
 
@@ -155,7 +155,10 @@ header {
 .one_ecran input[type="submit"] {
 	border: none;
 	background: #9b1507;
-	padding: 20px; 
+	padding-left: 30px;
+	padding-right: 30px; 
+	padding-top: 15px;
+	padding-bottom: 15px; 
 	font-size: 25px;
 	transition: background 500ms;
 	margin-top: 20px;
