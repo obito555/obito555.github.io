@@ -56,6 +56,30 @@
       
     
 }
+@media only screen and (max-width : 410px) {
+    .cart {
+     margin-right: 40px;
+    }
+    .mobile_menu {
+      margin-right: 80px;
+    }
+    .logo {
+     
+     
+    }
+    .logo img {
+     width: 130px;
+     margin-left: 40px;
+    }
+    .cart span {
+      font-size: 13px;
+    }
+    .cart .fa-opencart {
+     font-size: 10px;
+     color: #fff;
+     padding-right:  10px; 
+}
+}
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
