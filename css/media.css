@@ -3,26 +3,26 @@
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
     
-	 .advantages_:nth-child(1) {
-     	margin-right: 30px;
+      .advantages_:nth-child(1) {
+          margin-right: 30px;
      }
       .advantages_:nth-child(2) {
-     	margin-right: 30px;
+          margin-right: 30px;
      }
      .advang_mini:nth-child(1) {
-     	margin-top: 30px;
-     	margin-bottom: 30px;
+          margin-top: 30px;
+          margin-bottom: 30px;
 
      }
      .advang_mini:nth-child(2) {
-     	margin-bottom: 30px;
-     	
+          margin-bottom: 30px;
+          
      }
      .menu_big_:nth-child(1) {
-     	margin-right: 40px;
+          margin-right: 40px;
      }
       .menu_big:nth-child(2) {
-     	margin-right: 40px;
+          margin-right: 40px;
      }
      
 
@@ -32,9 +32,9 @@
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
      .big_menu {
-     	flex-wrap: wrap;
-     	justify-content: center;
-     	align-items: center;
+          flex-wrap: wrap;
+          justify-content: center;
+          align-items: center;
 
      }
      
@@ -44,20 +44,25 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-	 .miny_menu:nth-child(1) {
-     	margin-top: 30px;
-     	margin-bottom: 30px;
+      .miny_menu:nth-child(1) {
+          margin-top: 30px;
+          margin-bottom: 30px;
 
      }
      .miny_menu:nth-child(2) {
-     	margin-bottom: 30px;
-     	
+          margin-bottom: 30px;
+          
      }
       
     
 }
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
 @media only screen and (max-width : 410px) {
-       .cart {
+    .cart {
      margin-right: 40px;
     }
     .mobile_menu {
@@ -107,6 +112,7 @@
 
 
 }
+  
 
 @media (min-width: 500px) and (max-width: 600px) {
 
