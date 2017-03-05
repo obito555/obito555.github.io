@@ -107,6 +107,36 @@
 
 
 }
+@media only screen and (min-width : 500px) { 
+           .mobile_menu {
+      margin-left: 70px;
+    }
+    
+    .cart span {
+      margin-left: 140px;
+    }
+    .cart .fa-opencart {
+     position: relative;
+     left: 140px;
+
+}
+
+     }
+ @media only screen and (min-width : 600px) { 
+           .mobile_menu {
+      margin-left: 140px;
+    }
+    
+    .cart span {
+      margin-left: 260px;
+    }
+    .cart .fa-opencart {
+     position: relative;
+     left: 260px;
+
+}
+
+     }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
