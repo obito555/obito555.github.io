@@ -228,13 +228,14 @@
   
    .nav_top {
      margin-top: 20px;
-     margin-left: 35px;
+     margin-left: 20px;
      font-size: 10px;
 
    }
+
   .logo img {
      position: relative;
-     right: 40px;
+     right: 60px;
   }
 
 }
