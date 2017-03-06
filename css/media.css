@@ -67,6 +67,7 @@
     }
     .mobile_menu {
       margin-right: 80px;
+      margin-bottom: 5px;
     }
      .mobile_menu img  {
       width: 30px;
@@ -222,20 +223,21 @@
 }
 
 }
- @media (min-width: 770px) and (max-width: 900px) {
 
-   .nav_li  a {
-     color: #fff;
-     text-decoration: none;
-     transition: border-bottom 2s;
+@media (min-width: 768px) and (max-width: 900px) {
+  
+   .nav_top {
+     margin-top: 20px;
+     margin-left: 35px;
      font-size: 10px;
 
+   }
+  .logo img {
+     position: relative;
+     right: 10px;
+  }
 
 }
-}
-
-
-
 
 
 
