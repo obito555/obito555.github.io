@@ -238,11 +238,12 @@
      left: 80px;
   }
    .cart span {
-     
+     margin-left: 120px;
       
     }
      .svvg {
-     
+      position: relative;
+     left: 70px;
 
 }
 
