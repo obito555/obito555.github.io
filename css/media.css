@@ -234,7 +234,7 @@
    }
 
   .logo img {
-     position: relative;
+     position: absolute;
      left: 50px;
   }
 
