@@ -227,7 +227,7 @@
 @media (min-width: 768px) and (max-width: 900px) {
   
    .nav_top {
-     margin-top: 20px;
+     margin-top: 18px;
      margin-left: 210px;
      font-size: 10px;
 
@@ -238,13 +238,16 @@
      left: 80px;
   }
    .cart span {
-     margin-left: 120px;
+     margin-left: 110px;
       
     }
      .svvg {
       position: relative;
-     left: 70px;
+     left: 150px;
 
+}
+.nav_li  a {
+  font-size: 10px;
 }
 
 }
