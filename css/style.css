@@ -70,7 +70,7 @@ header {
 
 }
 
-.cart .fa-opencart {
+.svvg {
 	font-size: 20px;
 	color: #fff;
 	padding-right:  10px; 
@@ -180,9 +180,7 @@ header {
 	background: #bf1a09;
 
 }
-.one_ecran a {
-	color: #ffffff;
-}
+
 
 .one_ecran input[type="submit"]:active {
 	background: #9d1406;
