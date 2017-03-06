@@ -227,7 +227,7 @@
 @media (min-width: 768px) and (max-width: 900px) {
   
    .nav_top {
-     margin-top: 15px;
+     margin-top: 25px;
      margin-left: 210px;
      font-size: 10px;
 
@@ -243,7 +243,7 @@
     }
      .svvg {
       position: relative;
-     left: 130px;
+     left: 120px;
 
 }
 .nav_li  a {
