@@ -113,41 +113,115 @@
 
 }
   
-
-@media (min-width: 500px) and (max-width: 600px) {
+@media (min-width: 500px) and (max-width: 550px) {
 
       .mobile_menu {
       margin-left: 70px;
+      margin-bottom: 5px;
     }
     
     .cart span {
-      margin-left: 140px;
+     margin-left: 140px;
+      
     }
-    .cart .fa-opencart {
-    position: relative;
+     .cart .fa-opencart {
+     position: relative;
      left: 140px;
 
 }
 
 }
-@media (min-width: 600px) and (max-width: 700px) {
+@media (min-width: 550px) and (max-width: 600px) {
 
       .mobile_menu {
-      margin-left: 130px;
+      margin-left: 110px;
+      margin-bottom: 5px;
     }
     
     .cart span {
-     margin-left: 270px;
+     margin-left: 245px;
       
     }
      .cart .fa-opencart {
      position: relative;
-     left: 270px;
+     left: 250px;
+
+}
+
+}
+@media (min-width: 600px) and (max-width: 650px) {
+
+      .mobile_menu {
+      margin-left: 140px;
+      margin-bottom: 5px;
+    }
+    
+    .cart span {
+     margin-left: 315px;
+      
+    }
+     .cart .fa-opencart {
+     position: relative;
+     left: 320px;
+
+}
+
+}
+@media (min-width: 650px) and (max-width: 700px) {
+
+      .mobile_menu {
+      margin-left: 180px;
+      margin-bottom: 5px;
+    }
+    
+    .cart span {
+     margin-left: 410px;
+      
+    }
+     .cart .fa-opencart {
+     position: relative;
+     left: 410px;
 
 }
 
 }
 
+@media (min-width: 700px) and (max-width: 750px) {
+
+      .mobile_menu {
+      margin-left: 220px;
+      margin-bottom: 5px;
+    }
+    
+    .cart span {
+     margin-left: 500px;
+      
+    }
+     .cart .fa-opencart {
+     position: relative;
+     left: 500px;
+
+}
+
+}
+@media (min-width: 750px) and (max-width: 767px) {
+
+      .mobile_menu {
+      margin-left: 250px;
+      margin-bottom: 5px;
+    }
+    
+    .cart span {
+     margin-left: 560px;
+      
+    }
+     .cart .fa-opencart {
+     position: relative;
+     left: 560px;
+
+}
+
+}
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
