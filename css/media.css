@@ -284,6 +284,12 @@
 
 
   }
+  @media (min-width: 300px) and (max-width: 374px) { 
+         header {
+          height: 400px;
+         }
+
+  }
 
 
 
