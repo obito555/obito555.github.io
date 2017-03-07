@@ -233,7 +233,7 @@ header {
 
 
 
-/*
+
 .advantages_mini {
 	background-image: url('../Images/font.png');
 	background-position: 90% 70%;
@@ -271,7 +271,7 @@ header {
 	
 
 }
-*/
+
 .header_text {
 	display: flex;
 	justify-content: space-around;
@@ -511,6 +511,7 @@ header {
 	
 
 }
+/*
 .dostavka_three {
 	background-image:url('../Images/dostavka3.png');
 	background-repeat: no-repeat;
@@ -520,6 +521,7 @@ header {
 	
 
 }
+*/
 .form_map {
 	background-color: white;
 	width: 350px;
