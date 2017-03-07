@@ -251,12 +251,13 @@ header {
 }
 .advang_mini  h1 {
       font-weight: bold;
-      font-size: 21px;
+      font-size: 16px;
     
       
 }
 .advang_mini_ p  {
 	font-size: 16px;
+	margin-right: 10px;
 
 	
 
