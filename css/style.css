@@ -149,7 +149,7 @@ header {
 	padding-bottom: 140px; 
 	text-align: center;
 	color: #fff;
-	display: none;
+
 }
 .one_ecran h1 {
 	font-size: 73px;
@@ -226,6 +226,14 @@ header {
 	margin-bottom: 0;
 
 }
+
+
+
+
+
+
+
+/*
 .advantages_mini {
 	background-image: url('../Images/font.png');
 	background-position: 90% 70%;
@@ -263,6 +271,7 @@ header {
 	
 
 }
+*/
 .header_text {
 	display: flex;
 	justify-content: space-around;
