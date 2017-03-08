@@ -152,7 +152,7 @@ header {
 
 }
 .one_ecran h1 {
-	font-size: 40px;
+	font-size: 67px;
 	font-weight: 900;
 	margin-top: 50px;
 
@@ -176,7 +176,7 @@ header {
 	margin-top: 20px;
 	transition: background 1s;
 	border-radius: 4px;
-	display: none;
+
 }
 .one_ecran input[type="submit"]:hover {
 	background: #bf1a09;
